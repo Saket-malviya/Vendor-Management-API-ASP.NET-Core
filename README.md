@@ -132,7 +132,7 @@ https://localhost:7134/swagger/index.html
 
 **Saket Malviya**
 .NET Full Stack Developer
-[GitHub](https://github.com/Saket-malviya) | [LinkedIn](https://linkedin.com/in/<your-profile>)
+[GitHub](https://github.com/Saket-malviya) | [LinkedIn](https://www.linkedin.com/in/saket-malviya-467764b1)
 
 ---
 
